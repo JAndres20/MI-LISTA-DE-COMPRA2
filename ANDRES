@@ -1,0 +1,40 @@
+<h1>Listas de Compras</h1>
+
+<section>
+  <h2>Verduras</h2>
+<ul>
+  <li>cebolla</li>
+  <li>perejil</li>
+  <li>tomate</li>
+  <li>calabacín</li>
+</ul>  
+</section>
+
+<section>
+  <h2>Frutas</h2>
+  <ul>
+    <li>manzana</li>
+    <li>plátano</li>
+    <li>naranja</li>
+    <li>limón</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Lacteos</h2>
+  <ul>
+    <li>leche</li>
+    <li>yogur</li>
+    <li>queso</li>
+    <li>mantequilla</li>
+  </ul>
+</section>
+
+<section>
+  <h2>lo que no encontre</h2>
+  <ul>
+    <li>pan</li>
+    <li>azúcar</li>
+    <li>sal</li>
+  </ul>
+</section>
